@@ -16,6 +16,7 @@ micah.saxton@tufts.edu
 
 
 ### Limitations of the traditional model
+* Rigid in classification
 * Conflates genre and function
 * Ignores the rhetorical function that sources play in a scholarly argument
 
@@ -27,7 +28,7 @@ micah.saxton@tufts.edu
 * Method (or Theory)
 
 ## Background
-* **Background sources** are used for uncontested information or common knowledge 
+* **Background sources** are used for uncontested information or common knowledge .
 * These sources set the context of the scholarly conversation.
 
 ## Exhibit
@@ -40,7 +41,7 @@ micah.saxton@tufts.edu
 
 ## Method (or Theory)
 * **Method sources** are used for their methodological or theoretical approach to a topic.
-* These sources lay the ground rules for a scholarly conversation
+* These sources lay the ground rules for a scholarly conversation.
 
 
 ### Brief Example
@@ -52,13 +53,18 @@ micah.saxton@tufts.edu
 
 ### Extended Example
 * In small groups, review the selected article.
-* Find sources used by the author(s) and identify their use: background, exhibit, argument, or method (theory)
+* Find sources used by the author(s) and identify their use: background, exhibit, argument, or method (theory).
+
+### Discussion
+* What uses of sources did you find?
+* Is there a balance of uses of sources? Is one prioritized over another?
+* Did this exercise illuminate anything about the text?
 
 
 ### Advantages of the BEAM model
 * Emphasis on the *use* of a source
 * Useful as a framework for *reading*
-* Useful framework for *writing*
+* Useful as a framework for *writing*
 
 
 ### Questions/Comments?
