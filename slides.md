@@ -9,6 +9,9 @@
 micah.saxton@tufts.edu
 
 
+### How do we think about and use sources for research based writing?
+
+
 ### The traditional model
 * Primary sources
 * Secondary sources
