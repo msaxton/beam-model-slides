@@ -1,14 +1,6 @@
 ## BEAM Model for Research Based Writing
 
 
-### Hello, I'm Micah.
-<img src="./images/saxton_profile.jpg" height=300 style="border-radius: 50%">
-<br>
-<a href = "https://go.tufts.edu/saxton" target="_blank">go.tufts.edu/saxton</a> 
-<br> 
-micah.saxton@tufts.edu
-
-
 ### How do we think about and use sources for research based writing?
 
 
@@ -47,27 +39,7 @@ micah.saxton@tufts.edu
 * These sources lay the ground rules for a scholarly conversation.
 
 
-### Brief Example
-* Freedgood, Elaine. *The Ideas in Things: Fugitive Meaning in the Victorian Novel.* Chicago: University of Chicago Press, 2006 (pp. 5-6).
-
-<p style="font-size: 30px; text-align: left">"And my choice of objects is influenced by structures of thoughts and feeling that derives from a line of critical thinking that could be traced from Marxist cultural studies, the study of culture and imperialism, postcolonial theory, and studies of power and subjectivity from Franz Fanon and Sigmund Freud to Michel Foucault and Judith Butler. The result is the method of the first three chapters of this book: one in which the historically and theoretically overdetermined material characteristics of objects are sought out beyond the immediate context in which they appear. These objects are then returned to their novelistic homes [Jane Eyre, Mary Barton, Great Expectations, Middlemarch], so that they can inhabit them with a radiance or resonance of meaning they have not possessed or not legitimately possessed in previous literary-critical reading."</p>
-
-<p style="font-size: 30px; text-align: left">"And my choice of objects <mark>[Exhibit Sources]</mark> is influenced by structures of thoughts and feeling that derives from a line of critical thinking that could be traced from Marxist cultural studies, the study of culture and imperialism, postcolonial theory, and studies of power and subjectivity from Franz Fanon and Sigmund Freud to Michel Foucault and Judith Butler <mark>[Theory Sources]</mark>. The result is the method of the first three chapters of this book: one in which the historically and theoretically overdetermined material characteristics of objects are sought out beyond the immediate context in which they appear. These objects are then returned to their novelistic homes [Jane Eyre, Mary Barton, Great Expectations, Middlemarch] <mark>[Exhibit Sources]</mark>, so that they can inhabit them with a radiance or resonance of meaning they have not possessed or not legitimately possessed in previous literary-critical reading <mark>[Argument Sources]</mark>."</p>
-
-### Extended Example
-* In small groups, review the selected article.
-* Find sources used by the author(s) and identify their use: background, exhibit, argument, or method (theory).
-
-### Discussion
-* What uses of sources did you find?
-* Is there a balance of uses of sources? Is one prioritized over another?
-* Did this exercise illuminate anything about the text?
-
-
 ### Advantages of the BEAM model
 * Emphasis on the *use* of a source
 * Useful as a framework for *reading*
 * Useful as a framework for *writing*
-
-
-### Questions/Comments?
